@@ -1,1 +1,1 @@
-Caesar cipher done with ruby.
+Some basic ruby exercises from The Odin Project.
