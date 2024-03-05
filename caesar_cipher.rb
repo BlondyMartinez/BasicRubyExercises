@@ -20,7 +20,7 @@ def caesar_cipher(string, shift)
     end
   end
 
-  puts output
+ output
 end
 
-caesar_cipher('What a string!', 5)
+puts caesar_cipher('What a string!', 5)
